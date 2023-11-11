@@ -59,7 +59,7 @@ Accuracies of this models on the dataset:
 <a><img src="images/accml.png"/></a>
 
 ## Streamlit deployment app results 
-<a><img src="images/all_models_prediction.png></a>	
+<a><img src="images/all_models_prediction.png"></a>	
 
 You can use models online [here](https://boston-houses-keras-and-app-erxsmwyzzg5n8yfzlsusxt.streamlit.app/)<br>
 
