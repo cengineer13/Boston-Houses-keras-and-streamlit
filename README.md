@@ -34,16 +34,16 @@ You can choose the model you want to predict the price of your house
 
 ## Features
 
-### Deep Learning
+### Deep Learning model
 
 - we have deep neural network with keras in [tensorflow](https://github.com/tensorflow/tensorflow.git)<br>
-  Accuracy of the model:
+  Accuracy of the model with r2 score metrics:
 
 <a><img src="images/acckeras.png"/></a>
 
-### Machine Learning
+### Machine Learning models
 
-- we trained the dataset with popular ML algorithms:
+We trained the dataset with popular ML algorithms:
 
 1. DecisionTreeRegressor
 2. ExtraTreesRegressor
@@ -57,8 +57,9 @@ Accuracies of this models on the dataset:
 
 ## Installation
 
-Install python and:
+Install python and other libraries:
 
 ```
 pip install -r requirements.txt
 ```
+
